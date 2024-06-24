@@ -1,0 +1,33 @@
+table thead {
+    text-align: center;
+}
+
+.form-select {
+    color: #5d6778;
+}
+
+.pointer-events-none {
+    pointer-events: none !important;
+}
+
+.action {
+    text-align: center;
+    color: white;
+}
+
+table.table-form {
+    font-size: 0.7rem;
+    table-layout: fixed;
+    word-break: break-word;
+}
+
+.table-form th,
+.table-form td {
+    text-align: left;
+    padding: 0.5rem;
+    text-overflow: ellipsis;
+}
+
+.no-wrap {
+    white-space: nowrap;
+}
